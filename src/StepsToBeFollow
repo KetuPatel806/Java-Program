@@ -1,0 +1,9 @@
+Step 1 :- See whole Problem and List out A data what question Say
+Step 2 :- think a bruteForce(worst time complexity) solution
+Step 3 :- If u see that are a sorted arrays some type of question to Searching Than
+          use Only Binary Search.
+Step 4 :-if u see any question of Rotated Binary search
+Step 5 :- 1)You have to pivot
+          2)make a function of binary search for given target,start and end
+          3)and reduce a length of a array to find a target
+          4)make cases and possibilities.
